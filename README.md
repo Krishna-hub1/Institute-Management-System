@@ -22,33 +22,7 @@ This project helps manage institute operations such as student details, attendan
 - **MySQL**
 
 
-## 📂 Project Structure
 
-
-Institute management System/
-│── app.py
-│── base_app.py
-│── main.py
-│── db.py
-│── config.py
-│── utils.py
-│── charts.py
-│── requirements.txt
-│
-├── modules/
-│ ├── auth.py
-│ ├── students.py
-│ ├── courses.py
-│ ├── attendance.py
-│ ├── fees.py
-│ ├── reports.py
-│ └── ...
-│
-├── templates/
-└── static/
-
-
----
 
 ## ⚙️ Installation & Setup
 
