@@ -1,0 +1,7 @@
+Flask
+PyMySQL
+matplotlib
+openpyxl
+Pillow
+customtkinter
+tkcalendar
