@@ -1,0 +1,6 @@
+customtkinter
+tkcalendar
+Pillow
+PyMySQL
+matplotlib
+openpyxl
