@@ -2,7 +2,7 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "9182balu",  # enter your MySQL password
+    "password": "",  # enter your MySQL password
     "database": "Institute Management"
 }
 
